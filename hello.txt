@@ -8,7 +8,5 @@ hello git
 hello git
 hello git
 hello git
-hello git cccccccccccc
-hello git
-hello git
-hello git ddddddddddddd
+hello git ccccccccccccc 
+hello git 
